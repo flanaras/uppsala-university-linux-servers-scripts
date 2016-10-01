@@ -1,0 +1,7 @@
+#! /bin/bash
+
+. ./uu_settings
+#if [ ! -d $UU_LOCAL_FOLDER ]; then
+#	mkdir $UU_LOCAL_FOLDER
+#fi
+sshfs $UU_USER@$UU_SERVER:$UU_REMOTE_FOLDER $UU_LOCAL_FOLDER

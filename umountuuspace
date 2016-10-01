@@ -1,0 +1,4 @@
+#! /bin/bash
+
+. ./uu_settings
+fusermount -u $UU_LOCAL_FOLDER 

@@ -1,0 +1,4 @@
+#! /bin/bash
+
+. ./uu_settings
+ssh -Y $UU_USER@$UU_SERVER

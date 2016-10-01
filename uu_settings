@@ -1,0 +1,7 @@
+#! /bin/bash
+
+export UU_USER=abcd1234
+export UU_SERVER=barany.it.uu.se
+export UU_LOCAL_PROXY_PORT=12345
+export UU_LOCAL_FOLDER=/home/$USER/universitySpace/
+export UU_REMOTE_FOLDER=/home/$UU_USER/
