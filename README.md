@@ -18,9 +18,9 @@ Picking between the Operating System is a personal thing, some servers contain p
 ## Set up: <a name="set-up-scripts"></a>
 If you cloned the repository you can just run the scripts (`./filename`). If you have copy pasted the content of the files then you would need to run `chmod +x filename` before you are able to run it.
 
-* You need to set **UU\_USER** variable in the `uu\_settings` file, it should look something like abcd1234.
+* You need to set **UU\_USER** variable in the *uu\_settings* file, it should look something like *abcd1234*.
 * [Optional] You should set the your choice of server to **UU\_SERVER**.
-* [Optional] You can change the remote folder that is to be mounted shown at **UU\_REMOTE\_FOLDER** and the local at **UU\_LOCAL\_FOLDER** to what you like. In the default configuration the local folder is /home/USER/universitySpace.
+* [Optional] You can change the remote folder that is to be mounted shown at **UU\_REMOTE\_FOLDER** and the local at **UU\_LOCAL\_FOLDER** to what you like. In the default configuration the local folder is */home/USER/universitySpace*.
 * You must manually create the path to **UU\_LOCAL\_FOLDER** in order to mount the remote folder successfully.
 * [Optional] You can set the port of the SOCKS proxy server on **UU\_LOCAL\_PROXY\_PORT**.
 
