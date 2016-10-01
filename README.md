@@ -29,3 +29,14 @@ If you cloned the repository you can just run the scripts (`./filename`). If you
 * *eduroam*
 * *printing (korint)*
 
+### Printing (korint)
+* *I wont be going through the process of making a payex account and linking your account to the university's access card.*
+
+* To view the current printing queue [log in to cirrato](https://korint.uu.se/cirrato/LoginPage.aspx?mode=selfservice).
+There you can view some information about the files in the queue and even delete them.
+
+* Information on how to set it up to work as a [local printer on Linux](korint/korint.md)
+
+* If you don't want to go through all the trouble of installing the printer then you can just print from within a terminal.
+To achieve this you can run `lpr -U abcd1234 -H ipp.korint.uu.se FILE_TO_PRINT` or `lp -U abcd1234 -h ipp.korint.uu.se FILE_TO_PRINT`, where in both cases *abcd1234* would be your username.
+
