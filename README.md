@@ -1,5 +1,5 @@
 # uppsala-university-linux-servers-scripts
-A few scripts to make our life easier while using the [Department of Information Technology](it.uu.se) Linux servers and some information about setting up [Uppsala's University](uu.se) services.
+A few scripts to make our life easier while using the [Department of Information Technology](http://it.uu.se) Linux servers and some information about setting up [Uppsala's University](http://uu.se) services.
 
 ## Table of Contents
 1. [Script explanation](#script-explanation)
